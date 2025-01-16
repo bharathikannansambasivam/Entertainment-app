@@ -21,5 +21,3 @@ Scroll through large lists of content without interruptions using the infinite s
 ## Responsive Design
 
 Enjoy an optimal layout and user experience on any screen size.
-# EntertainmentApp
-# EntertainmentApp
